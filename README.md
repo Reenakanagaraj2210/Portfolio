@@ -274,26 +274,10 @@ toolkit.html
 
 ```
 ## OUTPUT
-
-## Index.html
-
-<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/75598101-ba39-4df3-868c-c4284eef3662" />
-
-## About.html
-
-<img width="1919" height="1194" alt="image" src="https://github.com/user-attachments/assets/f5a1ab41-cb44-4192-8ba2-31aea4c66420" />
-
-## Skills.html
-
-<img width="1919" height="1195" alt="image" src="https://github.com/user-attachments/assets/8ade9d21-eea6-448b-a5d9-b2aa538b7d88" />
-
-## Education.html
-
-<img width="1919" height="1193" alt="image" src="https://github.com/user-attachments/assets/37cb9063-f924-40de-b1bb-b158c29839b7" />
-
-## Toolkit.html
-
-<img width="1919" height="1191" alt="image" src="https://github.com/user-attachments/assets/95098a77-63a0-43a7-9040-9769b04375c9" />
-
+![alt text](<portfolio/Screenshot 2026-02-10 182138 - Copy.png>) 
+![alt text](<portfolio/Screenshot 2026-02-10 182229.png>)
+ ![alt text](<portfolio/Screenshot 2026-02-10 182258.png>) 
+ ![alt text](<portfolio/Screenshot 2026-02-10 182331.png>) 
+ ![alt text](<portfolio/Screenshot 2026-02-10 182405.png>)
 ## RESULT
 The program for creating Portfolio using HTML and CSS is executed successfully.
